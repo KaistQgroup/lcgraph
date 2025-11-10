@@ -1,7 +1,0 @@
-dataset,method,n,m,max_level,seed,resolution,ts_start,rss_start_mb,total_sec,total_rss_mb_delta,total_py_peak_mb,phase_louvain_fit_sec,phase_louvain_fit_rss_mb_delta,phase_louvain_fit_py_peak_mb,level1_communities,level2_communities,level3_communities,rss_end_mb
-law_graph,Louvain_hier_contractive,4006,27313,2,123,1.0,2025-10-21 14:12:33,283.566,7.180363,9.691,13.888,,,,24,24,,293.262
-law_graph,Louvain_hier_contractive,4006,27313,2,123,1.0,2025-10-21 14:46:20,283.477,7.318241,10.059,13.888,,,,24,24,,293.539
-law_graph,Louvain_hier_contractive,4006,27313,2,123,1.0,2025-10-21 15:00:34,283.504,7.492873,9.465,13.888,,,,24,24,,292.973
-law_graph,Louvain_hier_contractive,4006,27313,2,123,1.0,2025-10-21 15:05:17,283.375,7.152684,10.219,13.888,,,,24,24,,293.598
-law_graph,Louvain_hier_contractive,4006,27313,2,123,1.0,2025-10-21 15:11:41,283.465,12.618017,19.82,20.639,,,,24,24,,303.285
-law_graph,Louvain_hier_contractive,4006,27313,2,123,1.0,2025-10-21 15:13:07,283.578,7.138233,9.871,13.888,,,,24,24,,293.449

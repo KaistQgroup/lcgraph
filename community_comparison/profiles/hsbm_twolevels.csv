@@ -1,2 +1,0 @@
-dataset,method,n,m,seed,min_size,max_depth,ts_start,rss_start_mb,total_sec,total_rss_mb_delta,total_py_peak_mb,phase_hsbm_fit_sec,phase_hsbm_fit_rss_mb_delta,phase_hsbm_fit_py_peak_mb,level1_communities,level2_communities,rss_end_mb
-law_graph,HSBM_twolevels,4006,27313,123,20,2,2025-10-21 12:50:57,283.184,2305.176943,-167.527,0.0,2305.130113,-167.629,369.552,4,4,115.871
